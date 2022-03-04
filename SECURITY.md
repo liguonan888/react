@@ -4,4 +4,6 @@ If you believe you have found a security vulnerability in React, we encourage yo
 
 Please refer to the following page for our responsible disclosure policy, reward guidelines, and those things that should not be reported:
 
-https://www.facebook.com/whitehat
+https://www.facebook.com/whitehat 
+
+你们可以把官网的 ‘Support Ukraine 🇺🇦 Help Provide Humanitarian Aid to Ukraine.’这一行字去掉吗？？ 我不同情乌克兰政府，我只同情乌克兰人民
